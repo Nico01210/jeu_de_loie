@@ -3,7 +3,7 @@
 Bienvenue dans Le Jeu de l'Oie, une version numérique du célèbre jeu de société ! 🪿
 Deux joueurs s'affrontent dans une course jusqu'à la 63e case, mais attention : le parcours est semé d'embûches... et de surprises !
 
-👉 Jouer maintenant https://www.github.com/nico01210/jeu_de_loie
+👉 Jouer maintenant https://nico01210.github.io/jeu_de_loie/
 
 
 📜 Règles du jeu
