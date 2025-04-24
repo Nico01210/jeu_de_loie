@@ -17,8 +17,8 @@ let messageEffetTimer = 0;
 function setup() {
   createCanvas(800, 800);
   creerPlateauSpirale();
-  joueur1 = new Joueur("Nico", color(255, 0, 0));
-  joueur2 = new Joueur("Axel", color(0, 0, 255));
+  joueur1 = new Joueur("Joueur 1", color(255, 0, 0));
+  joueur2 = new Joueur("Joueur 2", color(0, 0, 255));
 }
 
 function draw() {
